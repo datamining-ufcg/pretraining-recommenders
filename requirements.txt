@@ -1,0 +1,13 @@
+Unidecode
+numpy
+pandas
+scikit-learn
+gensim
+Cython
+surprise
+Levenshtein
+docopt
+matplotlib
+tqdm
+
+flake8
