@@ -29,73 +29,73 @@ In the Sections 5.2.1 and 5.2.2 of the paper, we describe our experiments and pr
 ### Figure 3
 
 1. Predictive performance on the Source2Target pre-training scenario on MovieLens 100k and 1M, using MovieLens 9.9M and 9M as Source, respectively.
-![](./complementary_material/dual_supervised_10m.png)
+![](./supplementary_material/dual_supervised_10m.png)
 
 2. Predictive performance on the Source2Target pre-training scenario on MovieLens 100k and 1M, using MovieLens 19.9M and 19M as Source, respectively.
-![](./complementary_material/dual_supervised_20m.png)
+![](./supplementary_material/dual_supervised_20m.png)
 
 3. Predictive performance on the Source2Target pre-training scenario on MovieLens 100k and 1M, using MovieLens 24.9M and 24M as Source, respectively.
-![](./complementary_material/dual_supervised_25m.png)
+![](./supplementary_material/dual_supervised_25m.png)
 
 ### Figure 4 - Target 100k
 
 1. Predictive performance on MovieLens 100k using the Source2Target strategy considering MovieLens 9.9M as the source.
-![](./complementary_material/10m_to_100k.png)
+![](./supplementary_material/10m_to_100k.png)
 
 1. Predictive performance on MovieLens 100k using the Source2Target strategy considering MovieLens 19.9M as the source.
-![](./complementary_material/20m_to_100k.png)
+![](./supplementary_material/20m_to_100k.png)
 
 1. Predictive performance on MovieLens 100k using the Source2Target strategy considering MovieLens 24.9M as the source.
-![](./complementary_material/25m_to_100k.png)
+![](./supplementary_material/25m_to_100k.png)
 
 ### Figure 4 - Target 1M
 
 1. Predictive performance on MovieLens 1M using the Source2Target strategy considering MovieLens 9M as the source.
-![](./complementary_material/10m_to_1m.png)
+![](./supplementary_material/10m_to_1m.png)
 
 1. Predictive performance on MovieLens 1M using the Source2Target strategy considering MovieLens 19M as the source.
-![](./complementary_material/20m_to_1m.png)
+![](./supplementary_material/20m_to_1m.png)
 
 1. Predictive performance on MovieLens 1M using the Source2Target strategy considering MovieLens 24M as the source.
-![](./complementary_material/25m_to_1m.png)
+![](./supplementary_material/25m_to_1m.png)
 
 ### Figure 5
 
 1. Loss landscape analysis for each Target2Target initialization of MovieLens 100k.
-![](./complementary_material/target2target_ml100k_interpolation.png)
+![](./supplementary_material/target2target_ml100k_interpolation.png)
 
 1. Loss landscape analysis for each Target2Target initialization of MovieLens 1M.
-![](./complementary_material/target2target_ml1m_interpolation.png)
+![](./supplementary_material/target2target_ml1m_interpolation.png)
 
 1. Loss landscape analysis for each Target2Target initialization of MovieLens 10M.
-![](./complementary_material/target2target_ml10m_interpolation.png)
+![](./supplementary_material/target2target_ml10m_interpolation.png)
 
 1. Loss landscape analysis for each Target2Target initialization of MovieLens 20M.
-![](./complementary_material/target2target_ml20m_interpolation.png)
+![](./supplementary_material/target2target_ml20m_interpolation.png)
 
 1. Loss landscape analysis for each Target2Target initialization of MovieLens 25M.
-![](./complementary_material/target2target_ml25m_interpolation.png)
+![](./supplementary_material/target2target_ml25m_interpolation.png)
 
 ### Figure 6 - Target 100k
 1. Loss landscape analysis for each initialization of the transfer between MovieLens 9.9M and 100k in the Source2Target strategy.
-![](./complementary_material/interpolation_10m_100k.png)
+![](./supplementary_material/interpolation_10m_100k.png)
 
 1. Loss landscape analysis for each initialization of the transfer between MovieLens 19.9M and 100k in the Source2Target strategy.
-![](./complementary_material/interpolation_20m_100k.png)
+![](./supplementary_material/interpolation_20m_100k.png)
 
 1. Loss landscape analysis for each initialization of the transfer between MovieLens 24.9M and 100k in the Source2Target strategy.
-![](./complementary_material/interpolation_25m_100k.png)
+![](./supplementary_material/interpolation_25m_100k.png)
 
 
 ### Figure 6 - Target 1M
 1. Loss landscape analysis for each initialization of the transfer between MovieLens 9M and 1M in the Source2Target strategy.
-![](./complementary_material/interpolation_10m_1m.png)
+![](./supplementary_material/interpolation_10m_1m.png)
 
 1. Loss landscape analysis for each initialization of the transfer between MovieLens 19M and 1M in the Source2Target strategy.
-![](./complementary_material/interpolation_20m_1m.png)
+![](./supplementary_material/interpolation_20m_1m.png)
 
 1. Loss landscape analysis for each initialization of the transfer between MovieLens 24M and 1M in the Source2Target strategy.
-![](./complementary_material/interpolation_25m_1m.png)
+![](./supplementary_material/interpolation_25m_1m.png)
 
 ## Additional References
 
