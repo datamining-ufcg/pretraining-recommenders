@@ -2,7 +2,7 @@
 
 This repository contains all the code and instructions to execute the experiments described in the paper *"Evaluating Pre-training Strategies for Collaborative Filtering"*, to be published at the [31st ACM Conference on User Modeling, Adaptation and Personalization (UMAP)](https://www.um.org/umap2023/) in Limassol, Cyprus on June 26-30, 2023.
 
-Also, this repository holds the [Complementary Material](./complementary_material.md) for the paper.
+Also, this repository holds the [Supplementary Material](./supplementary_material.md) for the paper.
 
 ## Executing this code
 
